@@ -1,0 +1,136 @@
+body {
+	font-family:Arial,sans-serif;
+	font-size: 13px;
+}
+
+a {
+	text-decoration: none;
+}
+
+h2 {
+	font-family: Arial Black;
+}
+
+h4 {
+	text-align: center;
+	color: blue;
+}
+
+th, td {
+    border: 1px solid black;
+}
+
+#header {
+	background-image: url("images/header.jpg");
+	background-repeat: repeat-x;
+}
+
+#wrapper {
+	background-image: url("images/background.jpg");
+	background-repeat: repeat-x;
+	width: 980px;
+	margin: 0 auto;
+}
+
+
+#logo a {
+	font-family: 'Arial Black', sans-serif;
+	font-size: 50px;
+	color: coral;
+}
+
+#logo {
+	font-family: Georgia,serif;
+	font-size: 23px;
+	font-style: italic;
+	color: coral;
+	text-align: center;
+}
+
+#mainMenu a {
+	color: blue;
+	text-transform: uppercase;
+	font-weight: bold;
+	text-align: center;
+}
+
+#mainMenu a:hover {
+	color: #000000;
+}
+
+#subMenu a {
+	color: black;
+	font-family: Arial Black;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+#subMenu a:hover {
+	color: #006699;
+}
+
+#contacts a.cart {
+	color: #ffffff;
+	background-color: goldenrod;
+	text-align: center;
+}
+
+#contacts a.cart:hover {
+	color: #000000;
+}
+
+#contacts a {
+	color: brown;
+	font-weight: bold;
+}
+
+#contacts a:hover {
+	text-decoration: underline;
+	color: blue;
+}
+
+#main a.productItem {
+	color: #000000;
+	text-align: center;
+}
+
+#main a.productItem:hover {
+	color: #006699;
+}
+
+#main .productSummary {
+	background-color: #d3d3d3;
+	text-align: center;
+}
+
+#main .line-through {
+	text-decoration: line-through;
+}
+
+#footer {
+	color: chocolate;
+	font-style: italic;
+	font-weight: bold;
+}
+
+
+#main .cartOption {
+	font-weight: bold;
+}
+
+#main a.cart {
+	color: #ffffff;
+	background-color: blue;
+	text-align: center;
+	text-transform: uppercase;
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+#main a.cart:hover {
+	color: #000000;
+}
+
+#form {
+	font-weight: bold;
+}

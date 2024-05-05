@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Điêp Store ONLINE</title>
+	<link rel="stylesheet" type ="text/css" href="../styles.css">
+	<link rel="stylesheet" type="text/css" href="../layout.css">
+	
+</head>
+<body>
+<div id="wrapper">
+	<div id="header">
+		<div id="logo">
+			<a href="../Guest/index.html">Điệp Store</a><br/>
+		</div>
+		<ul id="topMenu">
+			<li>Hello: Điệp</li>
+			<li><a href="login.html">Login</a></li>
+		</ul>
+	</div>
+	<div id="sidebar">
+		<div id="subMenu">
+			<h3 class="box_header">MANAGE</h3>
+			<ul>
+				<li><a href="product.html">PRODUCTS</a></li>
+				<li><a href="order.html">ORDERS</a></li>
+				<li><a href="user.html">USERS</a></li>
+				<li><a href="logout.html">LOGOUT</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="main">
+		<div class="box_background">
+			<h2 class="box_header">MANAGE ORDERS</h2>
+			<div id="search_condition">
+				<ul>
+					<li><div>Account</div><input type="search" name="searchOrder"></li>
+					<li><div>From Date</div><input type="date" name="searchOrder"></li>
+					<li><div>To Date</div><input type="date" name="searchOrder"></li>
+					<li><div>Category</div><select name="category" id="">
+						<option value="Phone">Phone</option>
+						<option value="Watch">Watch</option>
+						<option value="Clothes">Clothes</option>
+						<option value="Food">Food</option>
+					</select></li>
+					<li><div>Status</div><select name="status" id="">
+						<option value="Pending">Pending</option>
+						<option value="In process">In process</option>
+						<option value="Closed">Closed</option>
+						<option value="Cancelled">Cancelled</option>
+					</select></li>
+				</ul>
+				<div id="search"><input type="button" name="search" value="Search" ></div>
+			</div>
+			<div id="manage_product">
+				<table>
+					<tr>
+						<th></th>
+						<th>Account</th>
+						<th>Order#</th>
+						<th>Date</th>
+						<th>Amount</th>
+						<th>Category</th>
+						<th>Status</th>
+						<th>Edit</th>
+						<th>Delete</th>
+					</tr>
+					<tr>
+						<td><input type="checkbox"></td>
+						<td>johnsm</td>
+						<td>12384</td>
+						<td>12/02/2023</td>
+						<td>900k-1tr5</td>
+						<td>Phone</td>
+						<td>Closed</td>
+						<td><a href="edit.htm"><img src="../images/edit.jpg" alt="" width="30" height="30"></a></td>
+						<td><img src="../images/delete.jpg" alt="" width="30" height="30"></td>
+					</tr>
+					<tr>
+						<td><input type="checkbox"></td>
+						<td>johnsm</td>
+						<td>12284</td>
+						<td>12/03/2024</td>
+						<td>1tr2</td>
+						<td>Clothes,Watch</td>
+						<td>Closed</td>
+						<td><a href="edit.htm"><img src="../images/edit.jpg" alt="" width="30" height="30"></a></td>
+						<td><img src="../images/delete.jpg" alt="" width="30" height="30"></td>
+					</tr>
+					<tr>
+						<td><input type="checkbox"></td>
+						<td>johnsm</td>
+						<td>02384</td>
+						<td>12/02/2024</td>
+						<td>900k</td>
+						<td>Food</td>
+						<td>Closed</td>
+						<td><a href="edit.htm"><img src="../images/edit.jpg" alt="" width="30" height="30"></a></td>
+						<td><img src="../images/delete.jpg" alt="" width="30" height="30"></td>
+					</tr>
+					<tr>
+						<td><input type="checkbox"></td>
+						<td>kelly</td>
+						<td>10387</td>
+						<td>1/02/2024</td>
+						<td>1tr5</td>
+						<td>Phone</td>
+						<td>Closed</td>
+						<td><a href="edit.htm"><img src="../images/edit.jpg" alt="" width="30" height="30"></a></td>
+						<td><img src="../images/delete.jpg" alt="" width="30" height="30"></td>
+					</tr>
+					<tr>
+						<td><input type="checkbox"></td>
+						<td>kelly</td>
+						<td>10317</td>
+						<td>1/01/2016</td>
+						<td>$59.99</td>
+						<td>Watch</td>
+						<td>Closed</td>
+						<td><a href="edit.html"><img src="../images/edit.jpg" alt="" width="30" height="30"></a></td>
+						<td><img src="../images/delete.jpg" alt="" width="30" height="30"></td>
+					</tr>
+					<tr>
+						<td><input type="checkbox"></td>
+						<td>kelly</td>
+						<td>10457</td>
+						<td>1/12/2015</td>
+						<td></td>
+						<td>Phone</td>
+						<td>Closed</td>
+						<td><a href="edit.html"><img src="../images/edit.jpg" alt="" width="30" height="30"></a></td>
+						<td><img src="../images/delete.jpg" alt="" width="30" height="30"></td>
+					</tr>
+				</table>
+			</div>
+			<div id="page"><a href="#">Prev</a> 1 2 3 <a href="#">Next</a></div>
+			<div id="add_product">
+				<ul>
+					<li><input type="submit" value="Delete Orders" id="submit1"></li>
+					<li><a href="add.html"><input type="submit" value="Creat New Order" id="submit1"></a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	
+	<div id="footer">
+		<ul id="info">
+			<li> 2024 by Điệp Store</li>
+			<li>diepakpro@gmail.com</li>
+			<li>Tel: 0344037974</li>
+		</ul>
+	</div>
+</div>
+	
+</body>
+</html>

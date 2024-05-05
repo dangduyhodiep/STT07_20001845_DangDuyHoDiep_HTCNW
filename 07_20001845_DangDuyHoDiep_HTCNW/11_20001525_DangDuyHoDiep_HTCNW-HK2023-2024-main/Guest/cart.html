@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>MY CART</title>
+	<link rel="stylesheet" type ="text/css" href="../styles.css">
+	<link rel="stylesheet" type="text/css" href="../layout.css">
+	<link rel="stylesheet" href="../js/Full-Width-Responsive-jQuery-Slider-Banner-Rotator-Plugin/slider.style.css">
+	<link rel="stylesheet" type="text/css" href="../js/Clean-Responsive-jQuery-Carousel-Plugin-flexisel/css/style.css">
+</head>
+<body>
+<div id="wrapper">
+	<div id="header">
+		<div id="logo">
+			<a href="index.html">Điệp Store</a><br/>
+		</div>
+		<ul id="topMenu">
+			<li>Hello: Guest</li>
+			<li><a href="login.html">Login</a></li>
+			<li><a href="register.html">Register</a></li>
+			<li><a class = "cart" href="cart.html">Cart : 0</a></li>
+		</ul>
+		<ul id="mainMenu">
+			<li><a href="index.html">Home</a></li>
+			<li><a href="search.html">Search</a></li>
+			<li><a href="payment.html">Delivery &amp; Payment</a></li>
+			<li><a href="contact.html">Contact Us</a></li>
+		</ul>
+	</div>
+	<div class="banner">
+		<div class="slider">
+			<ul>
+				<li><a href="#"> <img src="../images/banner/banner1.jpg" width="600" height="300"></a></li>
+				<li><a href="#"> <img src="../images/banner/banner2.png" width="600" height="300"></a></li>
+				<li><a href="#"> <img src="../images/banner/banner3.jpg" width="600" height="300"></a></li>
+				<li><a href="#"> <img src="../images/banner/banner4.jpg" width="600" height="300"></a></li>
+			</ul>
+			<div class="dots">
+				<a href="javascript:void(0);" rel="0" class="cur"></a>
+				<a href="javascript:void(0);" rel="1"></a>
+				<a href="javascript:void(0);" rel="2"></a>
+				<a href="javascript:void(0);" rel="3"></a>
+			</div>
+			<div class="arrow">
+				<a href="javascript:void(0);" class="btn-left">&lt;</a>
+				<a href="javascript:void(0);" class="btn-right">&gt;</a>
+			</div>
+		</div>
+	</div>
+	<div id="sidebar">
+		<div id="subMenu">
+			<h3 class="box_header">ITEM CATEGORY</h3>
+			<ul>
+				<li><a href="fashion.html">FASHION</a></li>
+				<li><a href="phone.html">MOBILE PHONE</a></li>
+				<li><a href="watch.html">WATCH</a></li>
+				<li><a href="food.html">FOOD</a></li>
+			</ul>
+		</div>
+		<div id="contacts">
+			<div id="subCart">
+				<a class="cart" href="cart.html">Cart : 0</a>
+			</div>
+			<ul>
+				<li class="box_header"><a href="contact.html">CONTACT <img src="../images/Contacts.jpg" width="25" height="25" alt=""></a></li>
+				<li class="box_header"><a href="http://facebook.com" target="_blank">FACEBOOK <img src="../images/facebook.png" width="25" height="25" alt=""></a></li>
+				<li class="box_header"><a href="http://twitter.com" target="_blank">TWITTER <img src="../images/twitter.png" width="25" height="25" alt=""></a></li>
+				<li class="box_header"><a href="http://google.com" target="_blank">GOOGLE <img src="../images/google.jpg" width="25" height="25" alt=""></a></li>
+			</ul>
+		</div>
+		<div id="topProduct">
+			<h4>TOP  PRODUCTS</h4>
+			<ul>
+			<li><a href="../Guest/details.html"><img src="../images/bộ nhớ đt.png" width="80" height="80" alt="" ><p>Bộ nhớ điện thoại <br> 200k-1tr8</p></a></li>
+			<li><a href="../Guest/details.html"><img src="../images/mic_loa đt.png" width="80" height="80" alt="" ><p>mic-loa điệ thoại <br> 1tr2-2tr7</p></a></li>
+	
+			</ul>
+		</div>
+	</div>
+	<div id="main">
+		<div class="box_background">
+			<h2 class="box_header">MY CART</h2>
+			<table id="viewCart" style="width:100%">
+				<tr>
+					<th>Image</th>
+					<th>Details</th>
+					<th>Quantity</th>
+					<th>Unit price</th>
+					<th>Amount</th>
+					<th>Delete</th>
+				</tr>
+				<tr>
+					<td><a class="productItemCart" href="details.html" alt="Product Name"> 
+					<img src="../images/bộ nhớ đt.png" width="50" height="50" alt="Product Name">
+					</td>
+					<td>Bộ nhớ 256G </td>
+					<td>
+						<select name="dropdown">
+						<option value="Maths" selected>1</option>
+						<option value="Physics">2</option>
+						<option value="Physics">3</option>
+						<option value="Physics">4</option>
+						<option value="Physics">5</option>
+						</select>
+					</td>
+					<td>1tr2</td>
+					<td>1tr2</td>
+					<td><i class="icon-remove-cart"><img src="../images/Remove-icon.png"></i></td>
+				</tr>
+				<tr>
+					<td><a class="productItemCart" href="details.html" alt="Product Name"> 
+					<img src="../images/mic_loa đt.png" width="50" height="50" alt="Product Name"></td>
+					<td>Mic điện thoại</td>
+					<td>
+						<select name="dropdown">
+						<option value="Maths" selected>1</option>
+						<option value="Physics">2</option>
+						<option value="Physics">3</option>
+						<option value="Physics">4</option>
+						<option value="Physics">5</option>
+						</select>
+					</td>
+					<td>900k</td>
+					<td>900k</td>
+					<td><i class="icon-remove-cart"><img src="../images/Remove-icon.png"></i></td>
+				</tr>
+			</table> <br/>
+			<form id="cartSummary">
+				<h2>CART SUMMARY</h2>
+				<table  >
+					<tr>
+						<th>Total</th>
+						<td>900</td>
+					</tr>
+					<tr>
+						<th>Shipment</th>
+						<td>30k</td>
+					</tr>
+					<tr>
+						<th>Grand Total</th>
+						<td>930k</td>
+					</tr>
+				</table>
+			</form> <br/>
+			<div class="cartOption"><a href="index.html">Điệp SHOPPING</a></div>
+			<div class="cartOption"><a href="payment.html">PAYMENT</a></div>
+		</div>
+	</div>
+	<div>
+		<ul id="flexiselDemo">
+			<li><a href="../Guest/details.html"><img src="../images/p2.jpg" width="80" height="80" alt="" ><p>Màng hình iphone 6,7,8 <br> 800k-2tr2</p></a></li>
+			<li><a href="../Guest/details.html"><img src="../images/Màng hình  iphone 14-15.png" width="80" height="80" alt="" ><p>Màng hình iphne 14, 14 pro, 14 pro max <br> 4tr-6tr</p></a></li>
+			<li><a href="../Guest/details.html"><img src="../images/màng hình laptop.png" width="80" height="80" alt="" ><p>Màng hình laptop</p> <br> 900k-1tr5</p></a></li>
+			<li><a href="../Guest/details.html"><img src="../images/bộ nhớ đt.png" width="80" height="80" alt="" ><p>Bộ nhớ điện thoại <br> 200k-1tr8</p></a></li>
+			<li><a href="../Guest/details.html"><img src="../images/mic_loa đt.png" width="80" height="80" alt="" ><p>mic-loa điệ thoại <br> 1tr2-2tr7</p></a></li>
+	
+		</ul>
+	</div>
+	<div id="footer">
+		<ul id="info">
+			<li> 2024 by Điệp Store</li>
+			<li>diepakpro@gmail.com</li>
+			<li>Tel: 0344037974</li>
+		</ul>
+	</div>
+</div>
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<script type="text/javascript" src="../js/Full-Width-Responsive-jQuery-Slider-Banner-Rotator-Plugin/slider.js"></script>
+	<script type="text/javascript">
+		$(document).omSlider({
+			slider: $('.slider'),
+			dots: $('.dots'),
+			next: $('.btn-right'),
+			pre: $('.btn-left'),
+			index: 0,
+			timer: 5000,
+			showtime: 800
+		});
+	</script>
+	<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="../js/Clean-Responsive-jQuery-Carousel-Plugin-flexisel/js/jquery.flexisel.js"></script>
+	<script type="text/javascript">
+		$(window).load(function() {
+			$("#flexiselDemo").flexisel({
+				visibleItems: 4,
+				itemToScoll: 1,
+				autoPlay: {
+					enable: true,
+					intreval: 5000,
+					pauseOnHover: true
+				}
+			});
+		});
+	</script>
+</body>
+</html>

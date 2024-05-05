@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Điệp Store ONLINE</title>
+	<link rel="stylesheet" type ="text/css" href="../styles.css">
+	<link rel="stylesheet" type="text/css" href="../layout.css">
+	
+</head>
+<body>
+<div id="wrapper">
+	<div id="header">
+		<div id="logo">
+			<a href="../Guest/index.html">Điệp Store</a><br/>
+		</div>
+		<ul id="topMenu">
+			<li>Hello: Điệp</li>
+			<li><a href="logout.html">Logout</a></li>
+		</ul>
+	</div>
+	<div id="sidebar">
+		<div id="subMenu">
+			<h3 class="box_header">MANAGE</h3>
+			<ul>
+				<li><a href="product.html">PRODUCTS</a></li>
+				<li><a href="order.html">ORDERS</a></li>
+				<li><a href="user.html">USERS</a></li>
+				<li><a href="logout.html">LOGOUT</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="main">
+		<div class="box_background">
+			<h2 class="box_header">MANAGE PRODUCTS</h2>
+			<div id="search_condition">
+				<ul>
+					<li><div>Product Name</div><input type="search" name="searchOrder"></li>
+					<li><div>Price Greater</div><input type="search" name="searchOrder"></li>
+					<li><div>Price Lower</div><input type="search" name="searchOrder"></li>
+					<li><div>Category</div><select name="category" id="">
+						<option value="Phone">Phone</option>
+						<option value="Watch">Watch</option>
+						<option value="Clothes">Clothes</option>
+						<option value="Food">Food</option>
+					</select></li>
+				</ul>
+				<div id="search"><input type="button" name="search" value="Search" ></div>
+			</div>
+			<div id="manage_product">
+			<table>
+				<tr>
+					<th></th>
+					<th>Product</th>
+					<th>Description</th>
+					<th>Price</th>
+					<th>Category</th>
+					<th>Edit</th>
+					<th>Delete</th>
+				</tr>
+				<tr>
+					<td><input type="checkbox"></td>
+					<td>Phone 1</td>
+					<td>Phone 1 now has the best performance and battery life ever.</td>
+					<td>900k</td>
+					<td>Phone</td>
+					<td><a href="edit.html"><img src="../images/edit.jpg" alt="" width="30" height="30"></a></td>
+					<td><img src="../images/delete.jpg" alt="" width="30" height="30"></td>
+				</tr>
+				<tr>
+					<td><input type="checkbox"></td>
+					<td>Phone 2</td>
+					<td>Phone 2 now has the best performance and water resistance, and stereo speakers.</td>
+					<td>1tr2</td>
+					<td>Phone</td>
+					<td><a href="edit.html"><img src="../images/edit.jpg" alt="" width="30" height="30"></a></td>
+					<td><img src="../images/delete.jpg" alt="" width="30" height="30"></td>
+				</tr>
+				<tr>
+					<td><input type="checkbox"></td>
+					<td>Watch 1</td>
+					<td>From leather bands to stainless steel designs.</td>
+					<td>1tr7</td>
+					<td>Watch</td>
+					<td><a href="edit.html"><img src="../images/edit.jpg" alt="" width="30" height="30"></a></td>
+					<td><img src="../images/delete.jpg" alt="" width="30" height="30"></td>
+				</tr>
+				<tr>
+					<td><input type="checkbox"></td>
+					<td>Watch 2</td>
+					<td>Our trendy watches are made to complement a variety of lifestyles.</td>
+					<td>1tr</td>
+					<td>Watch</td>
+					<td><a href="edit.html"><img src="../images/edit.jpg" alt="" width="30" height="30"></a></td>
+					<td><img src="../images/delete.jpg" alt="" width="30" height="30"></td>
+				</tr>
+				<tr>
+					<td><input type="checkbox"></td>
+					<td>Phone 1</td>
+					<td>Phone 1 now has the best performance and battery life ever.</td>
+					<td>1tr2</td>
+					<td>Phone</td>
+					<td><a href="edit.html"><img src="../images/edit.jpg" alt="" width="30" height="30"></a></td>
+					<td><img src="../images/delete.jpg" alt="" width="30" height="30"></td>
+				</tr>
+				<tr>
+					<td><input type="checkbox"></td>
+					<td>Phone 2</td>
+					<td>Phone 2 now has the best performance and water resistance, and stereo speakers.</td>
+					<td>1tr3</td>
+					<td>Phone</td>
+					<td><a href="edit.html"><img src="../images/edit.jpg" alt="" width="30" height="30"></a></td>
+					<td><img src="../images/delete.jpg" alt="" width="30" height="30"></td>
+				</tr>
+				<tr>
+					<td><input type="checkbox"></td>
+					<td>Watch 1</td>
+					<td>From leather bands to stainless steel designs.</td>
+					<td>2tr</td>
+					<td>Watch</td>
+					<td><a href="edit.html"><img src="../images/edit.jpg" alt="" width="30" height="30"></a></td>
+					<td><img src="../images/delete.jpg" alt="" width="30" height="30"></td>
+				</tr>
+				<tr>
+					<td><input type="checkbox"></td>
+					<td>Watch 2</td>
+					<td>Our trendy watches are made to complement a variety of lifestyles.</td>
+					<td>5tr</td>
+					<td>Watch</td>
+					<td><a href="edit.html"><img src="../images/edit.jpg" alt="" width="30" height="30"></a></td>
+					<td><img src="../images/delete.jpg" alt="" width="30" height="30"></td>
+				</tr>
+			</table>
+			</div>
+			<div id="page"><a href="#">Prev</a> 1 2 3 <a href="#">Next</a></div>
+			<div id="add_product">
+				<ul>
+					<li><input type="submit" value="Delete Items" id="submit1"></li>
+					<li><a href="add.html"><input type="submit" value="Add New Items" id="submit1"></a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	
+	<div id="footer">
+		<ul id="info">
+			<li> 2024 by Điệp Store</li>
+			<li>diepakpro@gmail.com</li>
+			<li>Tel: 0344037974</li>
+		</ul>
+	</div>
+</div>
+	
+</body>
+</html>

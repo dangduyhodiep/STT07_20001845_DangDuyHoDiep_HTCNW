@@ -1,0 +1,497 @@
+body {
+	margin: 0px;
+}
+
+#wrapper {
+	width: 980px;
+	margin: 0 auto;
+}
+
+#header {
+	height: 161px;
+}
+
+#sidebar {
+	float: left;
+	width: 198px;
+	border-right: 1px dotted gray;
+}
+
+#main {
+	float: right;
+	width: 780px;
+}
+
+#footer {
+	clear: both;
+	margin-top: 20px;
+	text-align: center;
+	padding-left: 10px;
+}
+
+#info li {
+	list-style: outside none none;
+}
+
+#logo {
+	float: left;
+	margin-left: 30px;
+	margin-top: 20px;
+}
+
+#mainMenu {
+	clear: right;
+	float: right;
+	margin-right: 20px;
+	margin-top: 80px;
+}
+
+#mainMenu li {
+	display: inline-block;
+	padding-left: 20px;
+	padding-right: 20px;
+	background-color: wheat;
+}
+
+#topMenu {
+	float: right;
+	margin-top:20px;
+	padding: 0px;
+	font-weight: bold;
+}
+
+#topMenu li {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+#topMenu a {
+	display: inline-block;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin-top: 5px;
+}
+
+#topMenu a.cart {
+	float: right;
+	margin-top: 0px;
+	margin-right: 20px;
+	text-align: center;
+	padding: 5px;
+	width: 80px;
+	background-color: violet;
+}
+
+/* Sidebar */
+.box_header {
+	border-bottom: 1px dotted gray;
+	margin: 10px;
+	min-height: 28px;
+	overflow: auto;
+	padding-left: 20px;
+	text-transform: uppercase;
+}
+
+#subMenu ul {
+	padding: 0px;
+	margin: 10px;
+}
+
+#subMenu li {
+	list-style: outside none none;
+	margin-top: 10px;
+	padding: 0px;
+}
+
+#subMenu a {
+	background-color: chocolate;
+	font-size: 14px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+#contacts a.cart {
+	display: block;
+	padding: 5px;
+	width: 100%;
+}
+
+#subCart {
+	border-bottom: 1px dotted gray;
+	border-top: 1px dotted gray;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	margin: 10px;
+}
+
+#contacts ul {
+	margin: 0px;
+	padding: 0px;
+}
+
+#contacts img {
+	float: right;
+	margin-right: 10px;
+}
+
+/*main*/
+.productItem {
+	display: block;
+	float: left;
+	height: 283px;
+	margin: 5px;
+	width: 232px;
+}
+
+.productItem img {
+	height: 225px;
+	width: 228px;
+}
+
+.productSummary {
+	padding: 5px;
+}
+
+
+#contactIcons li {
+	float:right;
+	display: inline-block;
+	padding-right: 10px;
+}
+
+.justify {
+	width: 90%;
+	text-align: justify;
+	margin-left: 20px;
+}
+
+#align-center {
+	text-align: center;
+}
+
+#detail {
+	float: right;
+	width: 430px;
+}
+
+/*cart*/
+#viewCart {
+	text-align: center;
+	background-color: #dddaaa;
+}
+
+#cartSummary {
+	margin-left: 270px;
+	width: 200px;
+}
+
+#tableSummary {
+	width: 200px;
+}
+
+.cartOption {
+	color: #deadaa;
+	text-align: center;
+	text-decoration: underline;
+}
+
+/*Box with header*/
+.box_header {
+	border-bottom: dotted 1px grey;
+	min-height: 28px;
+	padding-left: 20px;
+	margin:10px;
+	text-transform: uppercase;
+	color: navy;
+	overflow: auto;
+}
+
+.box_header h2 {
+	margin: 0px;
+	font-family: Arial Black;
+	text-transform: none;
+}
+
+.box_content {
+	min-height: 200px;
+	padding: 10px;
+}
+
+.box_content h3 {
+	color: rgba(114,186,204,1);
+}
+
+.box_background {
+	padding:5px;
+	min-height: 550px;
+	line-height: 200%;
+	overflow: auto;
+	text-align: justify;
+}
+
+.image_right {
+	float: right;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+.form_contact input,textarea {
+	width: 400px;
+	margin:2px;
+	border: 1px solid rgba(114,186,204,1);
+}
+
+#submit {
+	background-color: rgba(114,186,204,1);
+	width: 50px;
+	color: white;
+}
+
+.box_form li {
+	list-style: none none;
+}
+
+#form_content {
+	margin-top: 100px;
+}
+
+label.field {
+	text-align: left;
+	width: 120px;
+	font-weight: bold;
+	float: left;
+}
+
+label.content {
+	text-align: left;
+	width: 320px;
+	font-style: italic;
+	float: right;
+}
+
+fieldset {
+	width: 500px;
+	text-align: center;
+	margin: auto auto;
+}
+
+fieldset input,textarea {
+	width: 250px;
+}
+
+legend {
+	font-size: 15px;
+	font-weight: bold;
+}
+
+#submit1 {
+	background-color: rgba(114,186,204,1);
+	width: auto;
+	color: white;
+	text-align: center;
+}
+
+#backto {
+	text-align: center;
+	text-transform: uppercase;
+	margin-top: 20px;
+	text-decoration: underline;
+}
+
+#forgetpw {
+	float: right;
+	margin-right: 60px;
+	text-decoration: underline;
+	font-style: italic;
+}
+
+#price {
+	margin-left: 30px;
+}
+
+#tb_payment table,th,td {
+	border: none;
+}
+
+#pment {
+	margin-left: 80px;
+}
+
+.radio {
+	width: auto;
+}
+
+#payment li {
+	list-style: none none;
+}
+
+#payment input {
+	width: 200px;
+}
+
+#expiration input {
+	width: 98px;
+}
+
+#pay_confirm {
+	width: auto;
+	margin-left: 120px;
+	margin-top: 20px;
+}
+
+#search {
+	text-align: center;
+}
+
+.checkbox {
+	width: auto;
+}
+
+#agreement {
+	width: 30px;
+}
+
+#remember {
+	width: 30px;
+}
+
+#contact_info {
+	margin-left: 30px;
+	font-weight: bold;
+}
+
+#topProduct li {
+	display: inline-block;
+	list-style: none none;
+}
+
+#topProduct img {
+	float: left;
+	margin-left: 5px;
+}
+
+#topProduct p {
+	float: right;
+	padding-left: 5px;
+}
+
+table th {
+	background-color: chocolate;
+}
+
+#total_order {
+	float: right;
+	margin-right: 10px;
+	font-weight: bold;
+}
+
+#information {
+	text-align: left;
+	font-weight: bold;
+}
+
+#order_detail h3 {
+	margin-left: 20px;
+}
+
+#header_order {
+	background-color: #ffffef;
+	font-size: 15px;
+}
+
+#item_order {
+	background-color: #ffffef;
+}
+
+#info_address {
+	float: left;
+	background-color: #ffffef;
+	width: 43%;
+	height: 150px;
+	padding: 20px;
+}
+
+#other_info {
+	float: right;
+	background-color: #ffffef;
+	width: 43%;
+	height: 150px;
+	padding: 20px;	
+}
+
+#order_detail li {
+	list-style: none none;
+	display: inline-block;
+	padding-left: 30px;
+}
+
+#history {
+	background-color: #facbba;
+}
+
+#logout {
+	margin-top: 50px;
+}
+
+#manage_product table {
+	width: 100%;
+	border: 1px dotted gray;
+}
+
+#page {
+	text-align: center;
+}
+
+#add_product li {
+	float: right;
+	display: inline-block;
+	list-style: none none;
+}
+
+#edit {
+	float: right;
+	text-align: center;
+}
+
+#edit li {
+	text-align: left;
+	margin-left: 0px;
+	list-style: none none;
+}
+
+#edit textarea {
+	width: 400px;
+}
+
+#edit_picture {
+	float: left;
+}
+
+#edit_picture li {
+	display: inline-block;
+	list-style: none none;
+}
+
+#edit label {
+	float: left;
+}
+
+#user table {
+	width: 100%;
+	border: 1px dotted gray;
+}
+
+#update_user {
+	width: 300px;
+}
+
+#update_user input,select {
+	width: 120px;
+}
+
+#search_condition li {
+	list-style: none none;
+	display: inline-block;
+	width: auto;
+}

@@ -1,0 +1,1360 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"cha",
+				"changepassword"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"header",
+				"header_order"
+			],
+			[
+				"u",
+				"url()"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"I",
+				"INFORMATION"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"ch",
+				"checkbox"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"re",
+				"register.htm"
+			],
+			[
+				"cart",
+				"cart.htm"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"M",
+				"margin"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"img",
+				"images"
+			],
+			[
+				"nam",
+				"name=〔attribute〕"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"r",
+				"relative"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"bo",
+				"box_header"
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"repa",
+				"repeat-x"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"contact",
+				"Contact"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Guest/index.htm",
+			"settings":
+			{
+				"buffer_size": 7149,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Customer/history.htm",
+			"settings":
+			{
+				"buffer_size": 6624,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Customer/detail_order.htm",
+			"settings":
+			{
+				"buffer_size": 6077,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Admin/product.htm",
+			"settings":
+			{
+				"buffer_size": 5177,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Admin/edit.htm",
+			"settings":
+			{
+				"buffer_size": 2931,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Admin/add.htm",
+			"settings":
+			{
+				"buffer_size": 2123,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Admin/user.htm",
+			"settings":
+			{
+				"buffer_size": 4008,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Admin/logout.htm",
+			"settings":
+			{
+				"buffer_size": 1305,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Admin/order.htm",
+			"settings":
+			{
+				"buffer_size": 4724,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Guest/search.htm",
+			"settings":
+			{
+				"buffer_size": 7053,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Guest/login.htm",
+			"settings":
+			{
+				"buffer_size": 5957,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Guest/forgotpass.htm",
+			"settings":
+			{
+				"buffer_size": 5550,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Guest/payment.htm",
+			"settings":
+			{
+				"buffer_size": 7794,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Guest/register.htm",
+			"settings":
+			{
+				"buffer_size": 6307,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Guest/cart.htm",
+			"settings":
+			{
+				"buffer_size": 6875,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Customer/changepassword.htm",
+			"settings":
+			{
+				"buffer_size": 5663,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "validation.js",
+			"settings":
+			{
+				"buffer_size": 429,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "validation1.js",
+			"settings":
+			{
+				"buffer_size": 423,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Customer/logout.htm",
+			"settings":
+			{
+				"buffer_size": 5471,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Customer/profile.htm",
+			"settings":
+			{
+				"buffer_size": 6180,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "layout.css",
+			"settings":
+			{
+				"buffer_size": 5964,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "styles.css",
+			"settings":
+			{
+				"buffer_size": 1747,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Guest/contact.htm",
+			"settings":
+			{
+				"buffer_size": 6101,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Guest/details.htm",
+			"settings":
+			{
+				"buffer_size": 7095,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 360.0,
+		"last_filter": "Insta",
+		"selected_items":
+		[
+			[
+				"Insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/VB2 Programing/LTW1/Do An_1688060"
+	],
+	"file_history":
+	[
+		"/F/VB2 Programing/LTW1/Do An_1688060/Customer/shipping.htm",
+		"/F/VB2 Programing/LTW1/Do An_1688060/Customer/orders.htm",
+		"/F/VB2 Programing/LTW1/Do An_1688060/Customer/activity.htm",
+		"/F/VB2 Programing/LTW1/Do An_1688060/Guest/search.htm",
+		"/F/VB2 Programing/LTW1/Do An_1688060/Guest/seac.htm",
+		"/F/VB2 Programing/LTW1/Do An_1688060/Guest/faq.htm",
+		"/F/VB2 Programing/LTW1/Do An_1688060/Guest/about.htm",
+		"/F/VB2 Programing/LTW1/Do An_1688060/account.htm",
+		"/F/VB2 Programing/LTW1/Do An_1688060/Customer/message.htm",
+		"/F/VB2 Programing/LTW1/Do An_1688060/Customer/favourist.htm",
+		"/F/VB2 Programing/LTW1/Do An_1688060/index.htm",
+		"/F/VB2 Programing/LTW1/Lab05_1688060/contact.htm",
+		"/F/VB2 Programing/LTW1/Lab05_1688060/about.htm",
+		"/F/VB2 Programing/LTW1/Lab05_1688060/faq.htm",
+		"/F/VB2 Programing/LTW1/Lab05_1688060/layout.css",
+		"/F/VB2 Programing/LTW1/Lab05_1688060/details.htm",
+		"/F/VB2 Programing/LTW1/Lab05_1688060/cart.htm",
+		"/F/VB2 Programing/LTW1/Lab05_1688060/register.htm",
+		"/F/VB2 Programing/LTW1/Lab05_1688060/index.htm",
+		"/F/VB2 Programing/LTW1/Lab05_1688060/shipping.htm",
+		"/F/VB2 Programing/LTW1/Lab05_1688060/login.htm",
+		"/F/VB2 Programing/LTW1/Lab05_1688060/payment.htm",
+		"/F/VB2 Programing/LTW1/Lab05_1688060/styles.css",
+		"/F/VB2 Programing/LTW1/Lab04_1688060/images/1.jpg",
+		"/F/VB2 Programing/LTW1/Lab04_1688060/style.css",
+		"/F/VB2 Programing/LTW1/Lab04_1688060/styles.css",
+		"/F/VB2 Programing/LTW1/Lab04_1688060/styles",
+		"/F/VB2 Programing/LTW1/1688060/about.htm",
+		"/F/VB2 Programing/LTW1/1688060/faq.htm",
+		"/F/VB2 Programing/LTW1/1688060/details.htm",
+		"/F/VB2 Programing/LTW1/1688060/cart.htm",
+		"/F/VB2 Programing/LTW1/1688060/index.htm",
+		"/F/VB2 Programing/LTW1/1688060/contact.htm",
+		"/F/VB2 Programing/LTW1/1688060/faq",
+		"/F/VB2 Programing/LTW1/1688060/login.htm",
+		"/F/VB2 Programing/LTW1/1688060/register.htm",
+		"/F/VB2 Programing/LTW1/1688060/images/about.htm",
+		"/C/Users/truon.DESKTOP-H7EC0QJ/Desktop/index.htm",
+		"/C/Users/truon.DESKTOP-H7EC0QJ/Documents/index.htm",
+		"/C/Users/truon.DESKTOP-H7EC0QJ/Desktop/index"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sear",
+			"photo",
+			"password",
+			"border",
+			"history",
+			"table",
+			"cart",
+			"h4",
+			"contac",
+			"side",
+			"si",
+			"pro",
+			"main",
+			"table",
+			"faq",
+			"about",
+			"sear"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 23,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Guest/index.htm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6226,
+								6226
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3649.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 23,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Customer/history.htm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6624,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5662,
+								5662
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3315.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 22,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Customer/detail_order.htm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6077,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5115,
+								5115
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2936.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 21,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Admin/product.htm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5144,
+								5144
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3109.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 20,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "Admin/edit.htm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2931,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2898,
+								2898
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1594.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 19,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Admin/add.htm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2090,
+								2090
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1339.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 18,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "Admin/user.htm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4008,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3975,
+								3975
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2679.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 17,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Admin/logout.htm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1305,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1272,
+								1272
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 585.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 16,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "Admin/order.htm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4724,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4691,
+								4691
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2947.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 15,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "Guest/search.htm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7053,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6130,
+								6002
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3613.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 14,
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "Guest/login.htm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5957,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5034,
+								5034
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2914.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 13,
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "Guest/forgotpass.htm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5550,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4627,
+								4627
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2477.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 12,
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "Guest/payment.htm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7794,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6871,
+								6871
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4128.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 11,
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "Guest/register.htm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6307,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5341,
+								5341
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3144.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 10,
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "Guest/cart.htm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6875,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5952,
+								5952
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3483.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "Customer/changepassword.htm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5663,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4698,
+								4698
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2567.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "validation.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 429,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								429,
+								429
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "validation1.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 423,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 18,
+					"file": "Customer/logout.htm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4509,
+								4509
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2425.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 19,
+					"file": "Customer/profile.htm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6180,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5218,
+								5218
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2889.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 20,
+					"file": "layout.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5964,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5964,
+								5964
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7016.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 21,
+					"file": "styles.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1747,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								163,
+								163
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 76.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 22,
+					"file": "Guest/contact.htm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6101,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5178,
+								5178
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3008.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 23,
+					"file": "Guest/details.htm",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7095,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5390,
+								5390
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3405.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "lab03.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 177.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

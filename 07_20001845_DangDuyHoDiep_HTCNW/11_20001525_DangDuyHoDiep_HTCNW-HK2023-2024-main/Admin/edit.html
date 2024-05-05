@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Điệp Store ONLINE</title>
+	<link rel="stylesheet" type ="text/css" href="../styles.css">
+	<link rel="stylesheet" type="text/css" href="../layout.css">
+	
+</head>
+<body>
+<div id="wrapper">
+	<div id="header">
+		<div id="logo">
+			<a href="../Guest/index.htm">Điệp Store</a><br/>
+		</div>
+		<ul id="topMenu">
+			<li>Hello: Điệp</li>
+			<li><a href="logout.htm">Logout</a></li>
+		</ul>
+	</div>
+	<div id="sidebar">
+		<div id="subMenu">
+			<h3 class="box_header">MANAGE</h3>
+			<ul>
+				<li><a href="product.htm">PRODUCTS</a></li>
+				<li><a href="order.htm">ORDERS</a></li>
+				<li><a href="user.htm">USERS</a></li>
+				<li><a href="logout.htm">LOGOUT</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="main">
+		<div class="box_background">
+			<h2 class="box_header">EDIT PRODUCT</h2>
+			<div id="edit_picture">
+				<div>Edit Picture</div>
+				<div><input type="file" accept="image/*"></div><div><input type="submit" id="submit1" value="Upload"></div>
+				<ul>
+					<li><input type="checkbox"><img src="../images/p1.png" alt="" width="70" height="80"></li>
+					<li><input type="checkbox"><img src="../images/p2.jpg" alt="" width="70" height="80"></li>
+					<li><input type="checkbox"><img src="../images/p3.jpg" alt="" width="70" height="80"></li>
+				</ul>
+				<div><input type="submit" id="submit1" value="Delete Pictures"></div>
+			</div>
+			<div id="edit">
+				<ul>
+					<label>Product Name</label>
+					<li><textarea rows="1">Product 1</textarea></li>
+					<label>Category </label>
+					<li><select name="category" id="">
+						<option value="Phone">Phone</option>
+						<option value="Watch">Watch</option>
+						<option value="Clothes">Clothes</option>
+						<option value="Food">Food</option>
+					</select></li>
+					<label>Description</label>
+					<li><textarea rows="5">
+						The image screen is a very important part of the phone, it both protects and gives us the best view of our vision.. 
+					</textarea></li>
+					<label>Product Price</label><br>
+					<li><input type="text" value="PRODUCT PRICE"></li>
+					<li><input type="text" value="200k-1tr8"></li>
+					<li><a class="cart" href="">Add to Cart</a> 
+					</li>
+					<label>Details</label>
+					<li><textarea rows="10">
+						Phone 1 
+					</textarea></li>
+				</ul>
+				<div><input type="submit" value="Save" id="submit"></div>
+			</div>
+		</div>
+	</div>
+	
+	<div id="footer">
+		<ul id="info">
+			<li> 2024 by Điệp Store</li>
+			<li>diepakpro@gmail.com</li>
+			<li>Tel: 0344037974</li>
+		</ul>
+	</div>
+</div>
+	
+</body>
+</html>

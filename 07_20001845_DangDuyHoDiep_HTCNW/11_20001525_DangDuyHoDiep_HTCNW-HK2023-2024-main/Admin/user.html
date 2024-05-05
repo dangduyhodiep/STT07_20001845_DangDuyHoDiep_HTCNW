@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Điệp Store ONLINE</title>
+	<link rel="stylesheet" type ="text/css" href="../styles.css">
+	<link rel="stylesheet" type="text/css" href="../layout.css">
+	
+</head>
+<body>
+<div id="wrapper">
+	<div id="header">
+		<div id="logo">
+			<a href="../Guest/index.html">Điệp Store</a><br/>
+		</div>
+		<ul id="topMenu">
+			<li>Hello: Điệp</li>
+			<li><a href="logout.html">Logout</a></li>
+		</ul>
+	</div>
+	<div id="sidebar">
+		<div id="subMenu">
+			<h3 class="box_header">MANAGE</h3>
+			<ul>
+				<li><a href="product.html">PRODUCTS</a></li>
+				<li><a href="order.html">ORDERS</a></li>
+				<li><a href="user.html">USERS</a></li>
+				<li><a href="logout.html">LOGOUT</a></li>
+			</ul>
+		</div>
+	</div>
+	<div id="main">
+		<div class="box_background">
+			<h2 class="box_header">MANAGE USER</h2>
+			
+			<div id="search_condition">
+				<ul>
+					<li><div>Account</div><input type="search" name="searchOrder"></li>
+					<li><div>Responsibility</div><select name="" id=""><option value="">Admin Manager</option>
+						<option value="">Admin</option>
+						<option value="">Sales</option>
+						<option value="">Marketing</option></select></li>
+						<li><div>Status</div><select name="" id=""><option value="">Active</option>
+						<option value="">Inactive</option></select></li>
+				</ul>
+				<div id="search"><input type="button" name="search" value="Search" ></div>
+			</div>
+			<div id="user">
+			<table>
+				<tr>
+					<th>Account</th>
+					<th>User Name</th>
+					<th>Responsibility</th>
+					<th>Status</th>
+					<th>Function</th>
+					<th>Delete</th>
+				</tr>
+				<tr>
+					<td>AdminManager</td>
+					<td>Admin Manager</td>
+					<td>Admin Manager</td>
+					<td>Active</td>
+					<td>Full control</td>
+					<td><img src="../images/delete.jpg" alt="" width="30" height="30"></td>
+				</tr>
+				<tr>
+					<td>Admin</td>
+					<td>Admin</td>
+					<td>Admin</td>
+					<td>Active</td>
+					<td>Search, Add, Edit</td>
+					<td><img src="../images/delete.jpg" alt="" width="30" height="30"></td>
+				</tr>
+				<tr>
+					<td>Sales</td>
+					<td>Sales</td>
+					<td>Sales</td>
+					<td>Active</td>
+					<td>Search, Edit</td>
+					<td><img src="../images/delete.jpg" alt="" width="30" height="30"></td>
+				</tr>
+				<tr>
+					<td>Markeing</td>
+					<td>Marketing</td>
+					<td>Marketing</td>
+					<td>Inactive</td>
+					<td>Search</td>
+					<td><img src="../images/delete.jpg" alt="" width="30" height="30"></td>
+				</tr>
+				<tr>
+					<td>johnsm</td>
+					<td>John Smith</td>
+					<td>Customer</td>
+					<td>Active</td>
+					<td></td>
+					<td><img src="../images/delete.jpg" alt="" width="30" height="30"></td>
+				</tr>
+				<tr>
+					<td>kelly</td>
+					<td>Kelly</td>
+					<td>Customer</td>
+					<td>Active</td>
+					<td></td>
+					<td><img src="../images/delete.jpg" alt="" width="30" height="30"></td>
+				</tr>
+			</table>
+			</div>
+			<form class="box_form">
+				<fieldset id="update_user">
+					<legend>Add/Update</legend>
+					<ul>
+						<li><label class="field" for name="account">Account: </label><input type="text" name="account" /></li>
+						<li><label class="field" for name="account">Password: </label><input type="password" name="password" /></li>
+						<li><label class="field" for name="respon">Responsibility: </label><select name="" id=""><option value="">Admin Manager</option>
+						<option value="">Admin</option>
+						<option value="">Sales</option>
+						<option value="">Marketing</option></select></li>
+						<li><label class="field" for name="status">Status: </label><select name="" id=""><option value="">Active</option>
+						<option value="">Inactive</option></select></li>
+					</ul>
+					<p ><input type="submit" value="Add" id="submit1" /><input type="submit" value="Update" id="submit1" /></p>
+				</fieldset>
+			</form>
+			
+		</div>
+	</div>
+	
+	<div id="footer">
+		<ul id="info">
+			<li> 2024 by Điệp Store</li>
+			<li>diepakpro@gmail.com</li>
+			<li>Tel: 0344037974</li>
+		</ul>
+	</div>
+</div>
+	
+</body>
+</html>
